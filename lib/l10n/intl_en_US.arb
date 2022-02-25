@@ -1,0 +1,18 @@
+{
+  "simpleText": "Hola mundo",
+  "location": "Localizacion",
+  "task": "Tareas",
+  "language": "Idioma",
+  "Choose": "Elige el idioma",
+  "theme" : "Tema",
+  "login" : "Iniciar sesión",
+  "guest" : "Ingresar como invitado",
+  "welcome" : "Bienvenido",
+  "welcomePhoneLogin": "Ingresa tu número de celular",
+  "messagePhoneLogin": "Para poder ingresar a DeltaX necesitamos verificar tu número de celular:",
+  "skip": "Omitir",
+  "messagePhoneSms": "Ingrese el código de verificación",
+  "messagePhoneSmsBody": "Te enviamos un código de verificación de 6 dígitos por SMS al número de celular:"
+
+
+}
